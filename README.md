@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I am a **Senior iOS Engineer** passionate about building scalable, high-performance mobile applications that enhance user experiences. With extensive experience in **Swift** and a proven track record at companies like **PayPal Inc.**, **YML Ltd.**, and **Emsyne Ltd.**, I specialize in crafting apps that balance innovation with practicality. My expertise spans **Agile Development**, **API design**, and **App Localization**.
+I am a **Senior iOS Engineer** passionate about building scalable, high-performance mobile applications that enhance user experiences. With extensive experience in **Swift** and a proven track record at companies like **PayPal Inc.**, **YML Ltd.**, and **Emsyne Ltd.**, I specialize in crafting apps that balance innovation with practicality. My expertise spans **Agile Development**, **API design**, **MVVM/Clean Architecture** and **App Localization**.
 
 🛠️ **Skilled in**:
 - Elevating app functionality and usability
@@ -74,6 +74,9 @@ I am a **Senior iOS Engineer** passionate about building scalable, high-performa
 
 ### **L'Oréal Brow Magic**
 - Contributed to AR-based beauty app for virtual try-ons.
+
+### **iMuthoot**
+- Contributed to the design and development of the native application
 
 ---
 
