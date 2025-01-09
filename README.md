@@ -82,7 +82,7 @@ I am a **Senior iOS Engineer** passionate about building scalable, high-performa
   Muthoot Institute of Technology and Science *(2013-2017)*  
   *Graduated with distinction*
 - 🏫 **Computer Science**<br>
-  Saint Mary's Senior Secondary School *(2000-2013)*
+  Saint Mary's Senior Secondary School *(2000-2013)*<br>
   *Scored 95% in PCM* 
 
 ---
