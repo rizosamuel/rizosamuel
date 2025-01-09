@@ -81,6 +81,9 @@ I am a **Senior iOS Engineer** passionate about building scalable, high-performa
 - 🎓 **B.Sc. in Computer Science Engineering**  
   Muthoot Institute of Technology and Science *(2013-2017)*  
   *Graduated with distinction*
+- 🏫 **Computer Science**
+  Saint Mary's Senior Secondary School *(2000-2013)*
+  *Scored 95% in PCM* 
 
 ---
 
