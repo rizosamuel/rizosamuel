@@ -99,3 +99,7 @@ I am a **Senior iOS Engineer** passionate about building scalable, high-performa
 
 ## 🌐 Let's Connect!
 💡 Always looking for exciting challenges, opportunities to learn, and ways to make a positive impact through technology. Let's build something amazing together! 🚀
+
+👋 Hey do check out my portfolio to explore my work and projects:
+
+[🌐 Visit My Portfolio](https://rizosamuel.github.io/)
